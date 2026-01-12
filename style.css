@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(228, 204, 174);
+    font-family: Arial, sans-serif;
+}
+
+.site {
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    background: #ffecd2;
+    margin: 50px;
+    padding: 25px;
+    border-radius: 10px;
+}
